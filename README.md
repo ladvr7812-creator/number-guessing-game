@@ -107,7 +107,8 @@ Ideas for making this game better:
 ## 👨‍💻 Author
 
 **vaishnavilad726-ops**
-- GitHub: [@vaishnavilad726-ops](https://github.com/vaishnavilad726-ops)
+- GitHub: **ladvr7812-creator**
+- GitHub: [@ladvr7812-creator](https://github.com/ladvr7812-creator)
 - B.Tech IT Student
 - Learning Python and building projects!
 
